@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset= "UTF-8">
+    <link rel="stylesheet" href="style.css">
 
+    <title>PORTFOLIO</title>
+    
+    <h1 style="background-color: darkslategrey; color: whitesmoke; border: 2px solid whitesmoke; width: 1000px; height: 50px; text-align: center; line-height: 50px;">RESUME</h1>
+      
+
+    
+      <p style="margin-top: 15px;"><b>NAME:</b> ELEANA MAE B. ESPARAGOZA</p>
+
+    <p><b>ADDRESS:</b> ZONE- 5 CABAGÑAN, TABACO CITY, ALBAY</p> 
+    <p><b>PHONE NUMBER:</b>09665375718</p> 
+
+
+    
+
+
+</head>
+
+</html>
